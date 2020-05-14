@@ -1,0 +1,145 @@
+# Blocks Miui ads and data collection 
+
+#  Last updated on 20-11-2018
+
+# by Anoop 
+
+127.0.0.1 tracking.intl.miui.com
+
+127.0.0.1 api.sec.intl.miui.com
+
+127.0.0.1 adv.sec.intl.miui.com
+
+127.0.0.1 connect.rom.miui.com
+
+127.0.0.1 test.e.ad.xiaomi.com
+
+127.0.0.1 flash.sec.intl.miui.com
+
+127.0.0.1 contactapi.micloud.xiaomi.net
+
+127.0.0.1 abtest.mistat.xiaomi.com
+
+127.0.0.1 scontent.xx.fbcdn.net
+
+127.0.0.1 capi.hungama.com
+
+127.0.0.1 data.mistat.intl.xiaomi.com
+
+127.0.0.1 globalapi.ad.xiaomi.com
+
+127.0.0.1 data.mistat.xiaomi.com
+
+127.0.0.1 app.chat.xiaomi.net
+
+127.0.0.1 chinaunicom.com
+
+127.0.0.1 api.collect.data.intl.miui.com
+
+127.0.0.1 ccc.sys.intl.xiaomi.com
+
+127.0.0.1 zeus.ad.intl.xiaomi.com
+
+127.0.0.1 game.xiaomi.com
+
+127.0.0.1 external.xx.fbcdn.net
+
+127.0.0.1 cc.sys.miui.com
+
+127.0.0.1 api.admob.xiaomi.com
+
+127.0.0.1 test.ad.xiaomi.com
+
+127.0.0.1 market.xiaomi.com
+
+127.0.0.1 pdc.micloud.xiaomi.net
+
+127.0.0.1 ad.xiaomi.com
+
+127.0.0.1 notice.game.xiaomi.com
+
+127.0.0.1 api.brs.intl.miui.com
+
+127.0.0.1 api.miui.security.xiaomi.com
+
+127.0.0.1 tracking.miui.com
+
+127.0.0.1 api.setting.intl.miui.com
+
+127.0.0.1 cc.sys.intl.xiaomi.com
+
+127.0.0.1 ts.market.mi-img.com
+
+127.0.0.1 new.api.ad.xiaomi.com
+
+127.0.0.1 fcanr.tracking.miui.com
+
+127.0.0.1 storeconfig.mistat.intl.xiaomi.com
+
+127.0.0.1 a.stat.xiaomi.com
+
+127.0.0.1 api.ad.intl.xiaomi.com
+
+127.0.0.1 xiaomi.net
+
+127.0.0.1 test.new.api.ad.xiaomi.com
+
+127.0.0.1 data.sec.intl.miui.com
+
+127.0.0.1 geofence.sys.miui.com
+
+127.0.0.1 api.ad.xiaomi.com
+
+127.0.0.1 zeus.ad.xiaomi.com
+
+127.0.0.1 ccc.sys.miui.com
+
+127.0.0.1 reports.crashlytics.com
+
+127.0.0.1 app.market.xiaomi.com
+
+127.0.0.1 sgp.o2o.api.xiaomi.com
+
+127.0.0.1 xiaomi.com
+
+127.0.0.1 d368qv66y0shpj.cloudfront.net
+
+127.0.0.1 www.api.ad.intl.xiaomi.com
+
+127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+
+127.0.0.1 abtest.mistat.intl.xiaomi.com
+
+127.0.0.1 ssp.ad.xiaomi.com
+
+127.0.0.1 authbe.sec.intl.miui.com
+
+127.0.0.1 api.d.xiaomi.com
+
+127.0.0.1 account.xiaomi.com
+
+127.0.0.1 e.ad.xiaomi.com
+
+127.0.0.1 api.account.xiaomi.com
+
+127.0.0.1 sdkconfig.ad.xiaomi.com
+
+127.0.0.1 cdn.ad.xiaomi.com
+
+127.0.0.1 app-measurement.com
+
+127.0.0.1 miui.com
+
+127.0.0.1 sec-cdn.static.xiaomi.net
+
+127.0.0.1 e.crashlytics.com
+
+127.0.0.1 api.vip.miui.com
+
+127.0.0.1 miui.net
+
+127.0.0.1 resolver.gslb.mi-idc.com
+
+127.0.0.1 settings.crashlytics.com
+
+127.0.0.1 api.hybrid.intl.xiaomi.com
